@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Integration-ETL/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Data-Integration-ETL?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Integration-ETL/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Data-Integration-ETL?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Integration-ETL/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Data-Integration-ETL?style=flat-square&logo=github" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Integration-ETL/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Integration-ETL/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Data-Integration-ETL?style=flat-square&color=blue" alt="License"/></a>
@@ -68,9 +68,9 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by **GitHub Star Count** in descending order. Click on any star badge to inspect stargazers!*
+*Sorted by **GitHub Stars_Count** in descending order. Click on any Stars_Badge to inspect stargazers!*
 
-| Repo | Description | Stars 🌟 |
+| Repo | Description | GitHub_Stars 🌟 |
 | :--- | :--- | :--- |
 | **[Apache Airflow](https://github.com/apache/airflow)** | The de facto standard for programmatic workflow orchestration. Python DAGs, rich web UI, extensive provider ecosystem. Apache-2.0. | [![Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) |
 | **[Vector](https://github.com/vectordotdev/vector)** | High-performance, ultra-fast observability data pipeline and log ingestion engine written in Rust. Apache-2.0. | [![Stars](https://img.shields.io/github/stars/vectordotdev/vector?style=social&color=white)](https://github.com/vectordotdev/vector/stargazers) |
